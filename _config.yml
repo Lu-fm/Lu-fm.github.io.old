@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lu-fm.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Tekcor_
 github_username:  Lu-fm
+markdown: kramdown
 
 # Build settings
 theme: minima
