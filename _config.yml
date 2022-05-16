@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is fangmin's free space to do interesting stuff!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lu-fm.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyll
+twitter_username: Tekcor
 github_username:  Lu-fm
 
 # Build settings
